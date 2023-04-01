@@ -1,5 +1,5 @@
 body {
-    background: turquoise
+    background: #E18046
 }
 img {
     display: block;
@@ -17,3 +17,15 @@ h2 {text-align: center;
     font-family: 'Courier New', Courier, monospace;
 }
 
+h3 {
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    font-size: medium;
+}
+ul {
+    list-style-type: none;
+    
+}
+ul.goals {
+    text-align: left;
+}
