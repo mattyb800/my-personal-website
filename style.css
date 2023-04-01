@@ -22,10 +22,8 @@ h3 {
     font-family:'Courier New', Courier, monospace;
     font-size: medium;
 }
+
 ul {
     list-style-type: none;
-    
-}
-ul.goals {
-    text-align: left;
-}
+    }
+
